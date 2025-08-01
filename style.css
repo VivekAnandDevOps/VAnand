@@ -1,8 +1,21 @@
 body {
-  margin: 0;
-  font-family: "Segoe UI", sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
+  font-family: 'Helvetica', sans-serif;
+  color: #333333;
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3 {
+  color: #2C3E50;
+}
+
+.section-title {
+  color: #0077B6;
+  border-bottom: 1px solid #DDE1E7;
+}
+
+.job-title {
+  color: #0D6EFD;
+  font-weight: bold;
 }
 
 .container {
